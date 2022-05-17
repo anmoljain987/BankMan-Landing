@@ -21,3 +21,4 @@ A solo project completed in 7 days. To visit the live demo of the project [---Cl
 ### Screenshots
 
 
+![6befda27-91ca-4f5f-b8b7-c1ec8fda93f8](https://user-images.githubusercontent.com/96873348/168754627-f8945037-3bee-47d4-bb30-f1ce604f4c1c.png)
